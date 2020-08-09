@@ -1,6 +1,6 @@
 //if ternario
 
-// let fruta = 'manzana';
+// let fruta = 'manzana' ;
 
 // let resultado = fruta == 'manzana'? 'si, es manzana': 'no es manzana';
 
