@@ -5,7 +5,7 @@ let listadoDeComandos =
 'filtrar pendiente' ,
 'filtrar en_progreso' , 
 'filtrar terminada',
-'crear "Titulo" "Descripcion"' , 'Ojo, poner entre comillas si hay espacios en frases. El estado sera siempre pendiente'] 
+'crear "Titulo" "Descripcion"' , 'Cuidado, poner entre comillas si hay espacios en frases. El estado sera siempre pendiente'] 
 
 const funciones = require('./funciones')  // requiere las funciones dentro de este archivo funciones.js
 
